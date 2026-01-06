@@ -4,7 +4,7 @@
 Python
 
 # Project Name: Mini ATM System
-# Developer: Ibrahim (Future Software Engineer)  
+# Developer: Abody (Future Software Engineer)  
 # Version: 1.0
 
 print("Welcome to Mini ATM")
